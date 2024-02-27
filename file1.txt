@@ -1,3 +1,4 @@
 Shalom
 Hallo, world!
-Hello, univerce
+Hello, univerce!
+hello my friends!

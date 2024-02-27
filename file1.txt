@@ -1,1 +1,2 @@
-Shalom!
+Shalom
+Hallo, world!
